@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CoDi</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="registro_inicial">Registro Inicial</string>
+    <string name="registro_subsecuente">Registro Subsecuente</string>
+    <string name="validacion_cuenta">Validacion de Cuenta</string>
+    <string name="consulta_validacion_cuenta">Consulta Validacion de Cuenta</string>
+    <string name="generar_qr">Generar QR</string>
+    <string name="escanear_qr">Escanear QR</string>
+
+    <string name="generador_qr">Generador de QR</string>
+    <string name="monto">cantidad</string>
+    <string name="concepto">concepto</string>
+    <string name="nombre">nombre</string>
+    <string name="boton_generar">GENERAR QR</string>
+
+</resources>
